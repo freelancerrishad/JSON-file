@@ -1,7 +1,7 @@
 [
     {
       "id": "633f94b1a833c302eb1db665",
-      "time": "50 min",
+      "time": 50,
       "picture": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "React",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
@@ -9,7 +9,7 @@
     },
     {
       "id": "633f94b1c92a26386e2a4ba8",
-      "time": "40 min",
+      "time": 40,
       "picture": "https://www.djangoproject.com/m/img/logos/django-logo-negative.png",
       "name": "Django",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
@@ -17,7 +17,7 @@
     },
     {
       "id": "633f94b1c76600bef097a576",
-      "time": "60 min",
+      "time": 60,
       "picture": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960",
       "name": "Machine Learning",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
@@ -25,7 +25,7 @@
     },
     {
       "id": "633f94b11417b0d35297e2f0",
-      "time": "80 min",
+      "time": 80,
       "picture": "https://cdn.britannica.com/47/148847-050-C4FB5341/Cricket-bat-ball.jpg",
       "name": "Playing Cricket",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
@@ -33,7 +33,7 @@
     },
     {
       "id": "633f94b1d3150c51703c1649",
-      "time": "30 min",
+      "time": 30,
       "picture": "https://www.allthingssupplychain.com/wp-content/uploads/2017/03/blog_drama-supply-chain.jpg",
       "name": "Watching Drama",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
@@ -41,7 +41,7 @@
     },
     {
       "id": "633f94b16a459471a7113155",
-      "time": "45 min",
+      "time": 45,
       "picture": "https://images.pexels.com/photos/1319854/pexels-photo-1319854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "University Study",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, "
